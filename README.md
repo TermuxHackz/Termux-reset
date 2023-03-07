@@ -10,5 +10,7 @@ A simple bash script to help reset your termux incase of any problems you might 
 
 > bash Termux-reset.sh
 
+**DO NOT RUN THIS CODE EXCEPT YOU WISH FOR YOUR WHOLE DATA TO BE GONE!!!**
+
 ALL DONE TERMUX IS NOW RESET
 CODED BY : ANONYMINHACK5
