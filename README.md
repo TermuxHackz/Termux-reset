@@ -1,5 +1,5 @@
-# Termux-reset
-A simple bash script to help reset your termux incase of any problems you might have
+# Storage-reset
+A simple bash script to help reset your storage and clear incase of any problems you might have or insufficient space
 
 # Installation
 > git clone https://github.com/TermuxHackz/Termux-reset
